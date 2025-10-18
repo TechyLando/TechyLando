@@ -10,6 +10,7 @@
   - [Active Directory Homelab 5](https://github.com/TechyLando/Active-Directory-Lab-5)
   - [Group Policy Managment Homelab 1](https://github.com/TechyLando/GPO-Lab-1)
   - [Group Policy Managment Homelab 2](https://github.com/TechyLando/GPO-Lab-2)
+  - [DHCP Homelab 1](https://github.com/TechyLando/GPO-Lab-1)
 
 
 <h2>:page_facing_up: Certifications: </h2>
