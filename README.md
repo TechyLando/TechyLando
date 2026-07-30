@@ -10,7 +10,7 @@
   - [Creating & Deleting Temporary Admins with Powershell](https://github.com/TechyLando/Active-Directory-Lab-5)
   - [Group Policy Managment- Creating a "Disable Domain Firewall" Rule & Applying to a Individual Computer ](https://github.com/TechyLando/GPO-Lab-1)
   - [Group Policy Management- Creating a "Disable USB Storage" Rule & Applying to a Individual Computer ](https://github.com/TechyLando/GPO-Lab-2)
-  - [DHCP Homelab 1](https://github.com/TechyLando/DHCP-Lab)
+  - [Configuring DHCP Server](https://github.com/TechyLando/DHCP-Lab)
 
 
 <h2>:page_facing_up: Certifications: </h2>
