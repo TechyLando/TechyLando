@@ -3,9 +3,9 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 
-  - [Creating Windows Server VM, Adding Roles and Features](https://github.com/TechyLando/Active-Directory-Lab/blob/main/README.md)                
-  - [Promoting Windows Server to Domain COntroller, Setting up Organizational Units](https://github.com/TechyLando/Active-Dirctory-Lab-2)
-  - [Active Directory Homelab 3](https://github.com/TechyLando/Active-Direcrtory-Lab-3)
+  - [Creating Windows Server VM & Adding Roles and Features](https://github.com/TechyLando/Active-Directory-Lab/blob/main/README.md)                
+  - [Promoting Windows Server to Domain Controller & Setting up Organizational Units](https://github.com/TechyLando/Active-Dirctory-Lab-2)
+  - [Fundamental Navigation of Active Directory & Routine Administrative Tasks ](https://github.com/TechyLando/Active-Direcrtory-Lab-3)
   - [Active Directory Homelab 4](https://github.com/TechyLando/Active-Directory-Lab-4)
   - [Active Directory Homelab 5](https://github.com/TechyLando/Active-Directory-Lab-5)
   - [Group Policy Managment Homelab 1](https://github.com/TechyLando/GPO-Lab-1)
