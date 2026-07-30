@@ -17,7 +17,7 @@
 
 - [Comptia A+](https://www.credly.com/badges/aa6a7d1c-628d-4208-87f9-e9f2e3567e2e)
 
-
+- [Linux Essentials](https://www.credly.com/badges/aa6a7d1c-628d-4208-87f9-e9f2e3567e2e)
 
 
 <h2> :iphone: Connect with me:</h2>
