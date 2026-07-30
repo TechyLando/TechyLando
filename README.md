@@ -7,7 +7,7 @@
   - [Promoting Windows Server to Domain Controller & Setting up Organizational Units](https://github.com/TechyLando/Active-Dirctory-Lab-2)
   - [Fundamental Navigation of Active Directory & Routine Administrative Tasks ](https://github.com/TechyLando/Active-Direcrtory-Lab-3)
   - [Joining Windows 10 Client to AD Domain with Minor Troubleshooting & Enabling Recycle Bin](https://github.com/TechyLando/Active-Directory-Lab-4)
-  - [Active Directory Homelab 5](https://github.com/TechyLando/Active-Directory-Lab-5)
+  - [Creating & Deleting Temporary Admins with Powershell](https://github.com/TechyLando/Active-Directory-Lab-5)
   - [Group Policy Managment Homelab 1](https://github.com/TechyLando/GPO-Lab-1)
   - [Group Policy Managment Homelab 2](https://github.com/TechyLando/GPO-Lab-2)
   - [DHCP Homelab 1](https://github.com/TechyLando/DHCP-Lab)
