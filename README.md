@@ -8,8 +8,8 @@
   - [Fundamental Navigation of Active Directory & Routine Administrative Tasks ](https://github.com/TechyLando/Active-Direcrtory-Lab-3)
   - [Joining Windows 10 Client to AD Domain with Minor Troubleshooting & Enabling Recycle Bin](https://github.com/TechyLando/Active-Directory-Lab-4)
   - [Creating & Deleting Temporary Admins with Powershell](https://github.com/TechyLando/Active-Directory-Lab-5)
-  - [Group Policy Managment- Creating a "Disable Domain Firewall" Rule and Applying to a Individual Computer ](https://github.com/TechyLando/GPO-Lab-1)
-  - [Group Policy Managment Homelab 2](https://github.com/TechyLando/GPO-Lab-2)
+  - [Group Policy Managment- Creating a "Disable Domain Firewall" Rule & Applying to a Individual Computer ](https://github.com/TechyLando/GPO-Lab-1)
+  - [Group Policy Management- Creating a "Disable USB Storage" Rule & Applying to a Individual Computer ](https://github.com/TechyLando/GPO-Lab-2)
   - [DHCP Homelab 1](https://github.com/TechyLando/DHCP-Lab)
 
 
